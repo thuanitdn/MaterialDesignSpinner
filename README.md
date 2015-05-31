@@ -6,7 +6,7 @@ Simple spinner css3 with material design
 
 *--color--*
 
-"<style type="text/css">.spinner{color:yourcolor;}</style>"  
+<textarea><style type="text/css">.spinner{color:yourcolor;}</style></textarea> 
 
 *--size--*
 
