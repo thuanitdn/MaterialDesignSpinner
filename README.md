@@ -2,7 +2,7 @@ Simple spinner css3 with material design
 
 *--Using--*
 
-<blockquote><div class="spinner" data-options="large"  role="progressbar" aria-valuetext="Loading…"></div></blockquote>
+<textarea><div class="spinner" data-options="large"  role="progressbar" aria-valuetext="Loading…"></div></textarea>
 
 *--color--*
 
