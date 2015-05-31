@@ -1,11 +1,12 @@
 Simple spinner css3 with material design
-*  Using *
-          <div class="spinner" data-options="large"  role="progressbar" aria-valuetext="Loading…"></div>
-* color *
+*--Using--*
+          <div class="spinner" data-options="large"  role="progressbar" aria-valuetext="Loadingâ€¦"></div>
+*--color--*
 <style type="text/css">.spinner{color:yourcolor;}</style>  
-* size *
+*--size--*
 data-options="small"
  or
 data-options="large"
 Demo:
-codepen.io/thuanitdn/pen/pJRVNK
+<p data-height="268" data-theme-id="15592" data-slug-hash="pJRVNK" data-default-tab="result" data-user="thuanitdn" class='codepen'>See the Pen <a href='http://codepen.io/thuanitdn/pen/pJRVNK/'>pJRVNK</a> by thuan le (<a href='http://codepen.io/thuanitdn'>@thuanitdn</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
